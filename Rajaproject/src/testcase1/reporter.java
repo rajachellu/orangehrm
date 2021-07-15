@@ -5,7 +5,7 @@ public class reporter
 
 	public static void main(String[] args) 
 	{
-		System.out.println("create testcase1");
+		System.out.println("create testcase");
 	}
 
 }
